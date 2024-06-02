@@ -13,9 +13,6 @@ NutritionLabel is a simple project showcasing a nutrition label layout for a foo
 
 To view the nutrition label, you can open the `index.html` file in any web browser. Alternatively, you can clone the repository and open the file locally.
 
-## Preview
-
-![Nutrition Label Preview](https://example.com/nutrition-label-preview.png) <!-- Update with an actual image link if available -->
 
 ## Usage
 
